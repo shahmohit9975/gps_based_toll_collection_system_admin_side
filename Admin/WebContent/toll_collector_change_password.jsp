@@ -222,7 +222,7 @@
 					<!-- Model Start -->
 					<div id="custom-modal" class="modal-demo " style="display: none;">
 						<button type="button" class="close" onclick="Custombox.close();">
-							<span>×</span><span class="sr-only">Close</span>
+							<span>Ã—</span><span class="sr-only">Close</span>
 						</button>
 
 						<h4 class="custom-modal-title">Add Item</h4>
@@ -402,7 +402,7 @@
 	</script>
 
 </body>
-</html
+</html>
 </body>
 
 </html>
